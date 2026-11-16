@@ -5,6 +5,7 @@ Web estática en español para preparar el examen de Fundamentos de Redes y Comu
 - CAPA I: las 110 páginas del primer PDF.
 - CAPA II: exclusivamente las páginas 1–72 del segundo PDF. No incluye CAPA III.
 - 182 diapositivas originales en imagen, con texto consultable y buscador.
+- Sección de medios de transmisión con diez medios desarrollados, tabla comparativa, ventajas, limitaciones, aplicaciones y referencias a las diapositivas.
 - 15 temas con resumen y seguimiento de progreso local.
 - 46 tarjetas y preguntas explicadas, con referencia a la página de origen.
 - Prácticas aleatorias de 15 preguntas con revisión de errores.
